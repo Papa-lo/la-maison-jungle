@@ -1,0 +1,10 @@
+.panier {
+    padding: 32px;
+    background-color: #31b572;
+    color: white;
+}
+
+.panier ul {
+    list-style-type: none;
+    padding-left: 0;
+}
